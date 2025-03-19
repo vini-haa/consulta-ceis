@@ -13,7 +13,6 @@ O Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) apresenta a relaç
 - `requirements.txt`: Dependências Python necessárias
 - `.gitignore`: Configurações para ignorar arquivos e diretórios no Git
 - `LICENSE`: Licença MIT para o projeto
-- `Procfile`: Configuração para deploy no Heroku
 
 ## Requisitos
 
@@ -25,7 +24,7 @@ O Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) apresenta a relaç
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/consulta-ceis.git
+   git clone https://github.com/vini-haa/consulta-ceis.git
    cd consulta-ceis
    ```
 
