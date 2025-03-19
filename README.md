@@ -8,11 +8,13 @@ O Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) apresenta a relaç
 
 ## Estrutura do Projeto
 
-- `app.py`: Backend em Flask para processar as requisições à API do CEIS
-- `static/index.html`: Interface de usuário para realizar as consultas (gerado automaticamente)
-- `requirements.txt`: Dependências Python necessárias
-- `.gitignore`: Configurações para ignorar arquivos e diretórios no Git
-- `LICENSE`: Licença MIT para o projeto
+consulta-ceis/
+├── app.py                 # Aplicação Flask principal
+├── requirements.txt       # Dependências Python
+├── setup.py               # Configuração para instalação como pacote
+├── .gitignore             # Arquivos a serem ignorados pelo Git
+├── LICENSE                # Licença MIT
+└── README.md              # Documentação do projeto
 
 ## Requisitos
 
